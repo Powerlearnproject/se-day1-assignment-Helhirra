@@ -16,6 +16,7 @@ Explain what software engineering is and discuss its importance in the technolog
  **Security** - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering. 
  
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 **Mastering complexity**
 
 **Mastering process**
